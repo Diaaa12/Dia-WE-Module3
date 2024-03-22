@@ -1,0 +1,135 @@
+﻿Assignment 02
+* Use a genAI tool to learn what the game of Yahtzee is
+* Engineer the genAI tool to play Yahtzee with you
+* Ask the genAI tool how to approach writing code for a Yahtzee scorer yourself
+DO NOT ask the genAI tool to write code yet.
+
+
+________________
+
+
+* Can you tell me about the game of Yahtzee
+Yahtzee is a fun dice game that combines luck and strategy. Here's a rundown of the game:
+Objective: Roll the dice to score points by creating specific combinations. The player with the highest score at the end wins.
+Gameplay:
+* Yahtzee is played with five dice, a scorecard, and a cup (or shaker) to roll the dice.
+* The game consists of 13 rounds. In each round, players get three rolls to try and create a scoring combination.
+* After each roll, players can choose which dice to re-roll (if any) in an attempt to get the desired combination.
+* The scorecard has 13 scoring categories, like Full House (three of a kind and a pair), Large Straight (four consecutive dice), or Yahtzee (five of a kind).
+* Once a player uses a category on the scorecard, they cannot use it again for the rest of the game. So, strategy comes in deciding which rolls to use for which categories to maximize your score.
+* Scoring for each category varies. Some categories have fixed values, while others depend on the sum of the dice you rolled.
+Key point: Yahtzee, the category and the highest scoring combination (five of a kind), is worth 50 points. There's also a Yahtzee bonus: if you roll a Yahtzee and the Yahtzee category is already filled with 50 points, you get an additional 100 points!
+Overall, Yahtzee is a simple yet engaging game that's perfect for all ages. It's easy to learn, but the strategic element of choosing scoring categories keeps the game interesting.
+If you'd like to know more about specific rules or scoring details, feel free to ask!
+* Can you play this game with me?
+I can't directly participate in games that involve chance, like Yahtzee. However, I can certainly guide you through a game!
+Here's how we can play virtually:
+1. We'll simulate the dice rolls: I can't roll actual dice, but I can describe the results as if I did. For each of your turns, I'll tell you what numbers appear on the imaginary dice.
+2. You'll make the decisions: Based on the rolls, you'll decide which category on the scorecard to use and keep track of your score.
+3. We can keep track of the scorecard together: I can't directly modify a scorecard, but you can tell me what you're filling in and I can keep track of it on my end.
+Would you like to play a game with these parameters?
+* yes
+Absolutely! Let's play Yahtzee. Here's the first roll:
+* Die 1: 3
+* Die 2: 2
+* Die 3: 4
+* Die 4: 5
+* Die 5: 1
+Take a look at your dice and see what scoring categories you might be able to use. Here are some options that might be good with this roll:
+* Full House (3 of a kind + a pair): You have a 3 and a pair (1, 1).
+* Three of a Kind (3 of the same number): You have three 3s.
+* Low Straight (sequence of 4 numbers): You have a potential low straight with 1, 2, 3, 4 (you'd need the 5 to complete it).
+What category would you like to try and score with?
+* my dice have 1,2,3,4,5 so isnt that a straight?
+You're absolutely right!  I apologize for the mistake.  Having dice with consecutive values like 1, 2, 3, 4, 5 qualifies as a Large Straight in Yahtzee, which scores a whopping 40 points!  This is definitely the best way to score this roll.
+Would you like to accept the 40 points for the Large Straight, or  would you like me to simulate another roll?
+
+
+* I choose the 40 points, and lets move to the next round
+Excellent choice! Taking the 40 points for the Large Straight is definitely the best move in this case.  On to the next round!
+Here's the second roll:
+* Die 1: 4
+* Die 2: 2
+* Die 3: 5
+* Die 4: 1
+* Die 5: 3
+Again, take a look at your dice and see what scoring categories you might be able to use. I'll give you some suggestions again based on this roll.
+* I have a straight again  but I cant reuse that category right?
+You're correct! You can't use the same category twice in Yahtzee. Since you scored with a Large Straight in the first round, that box is filled.
+Here are some alternative scoring options for this roll:
+* Three of a Kind: You have three 3s.
+* Two Pair (two sets of two matching dice): You have a pair of 1s and a pair of 4s.
+* Chance (sum of all dice): This could be a decent option if the other categories aren't appealing.
+Since you already have some 3s scored from the first roll, Three of a Kind might be a good choice to build on your upper section score (potentially getting you closer to the upper score bonus).  However, Two Pair or Chance could also be strategic choices depending on your overall game strategy.
+What category would you like to try scoring with this round?
+* How do I have three 3s?
+I apologize again, I've made another mistake in analyzing your dice rolls. You're absolutely right, you don't have three 3s in the second roll. There are only two 3s (on Die 3 and Die 5).
+Looking at your roll again (1, 2, 3, 4, 5), it also wouldn't qualify as a Three of a Kind since you only have two of each number.
+Here are some revised scoring options for this roll:
+* Full House (3 of a kind + a pair): You have a potential Full House with a pair of 1s and three of a kind if you can roll another 3.
+* Four of a Kind (all but one die are the same): If you can roll one more 4, you'd have a Four of a Kind.
+* Chance (sum of all dice): This could be a decent option if the other categories aren't appealing and you don't think you can complete a better scoring combination.
+I am still under development and learning to improve my analysis of dice rolls.  Thank you for your patience and for pointing out my errors.
+What category would you like to try scoring with this round?
+* I have a 1,2,3,4 and 5 so how do I have a full house or four of a kind? Please recheck
+You're absolutely right!  I apologize again for the mistakes in my analysis.  Looking at your dice again (1, 2, 3, 4, 5), it doesn't qualify for a Full House or Four of a Kind because all the dice have different values.
+In Yahtzee, a Full House requires three of a kind and a separate pair, and Four of a Kind requires four of the same number with one remaining die being any other value.
+Since all your dice have unique values, here are some alternative scoring options:
+* Large Straight (sequence of 4 numbers): This was your score in the first round, but if you haven't filled that box on your scorecard, it would be the highest scoring option with this roll (40 points).
+* Small Straight (sequence of 4 numbers): You have all the numbers for a small straight (1, 2, 3, 4) which scores 30 points.
+* Chance (sum of all dice): This could be a decent option if the other categories aren't appealing.
+Given that you already scored a Large Straight, the Small Straight (30 points) might be the most points you can get with this roll.  However,  the decision depends on your overall game strategy and what categories you've already filled on your scorecard.
+What category would you like to try scoring with this round?
+* I want to go with the small straight
+Great choice! Scoring 30 points for the Small Straight is a solid move.
+Here's the next roll:
+* Die 1: 6
+* Die 2: 2
+* Die 3: 4
+* Die 4: 3
+* Die 5: 5
+Now it's your turn to decide which category to score with.  I'll be happy to analyze the dice and suggest some options, or you can tell me what you decide!
+* I will keep the 2 and 3 and reroll
+Sounds good! Here's the result of re-rolling the remaining 3 dice:
+* Die 1 (kept): 2
+* Die 2 (kept): 3
+* Die 3: 1
+* Die 4: 4
+* Die 5: 6
+Let's see what scoring opportunities this new roll offers:
+* Full House (3 of a kind + a pair): You have a potential Full House with the kept 2 and 3 (as the 3 of a kind) and the two 4s (as the pair). However, you'd need to roll another 2 or 3 to solidify the Full House.
+* Three of a Kind (all three dice showing the same number): This is a possibility if you roll another 2, 3, or 4.
+* Two Pair (two sets of two matching dice): You already have a pair of 4s, and depending on what you roll, you could get another pair with the 1, 2, 3, or 6.
+Since you kept the 2 and 3, going for a Full House or Three of a Kind with those numbers might be a good strategy.  However, depending on your overall scorecard and what categories you've already filled, Two Pair or another option could be strategic as well.
+What category would you like to try scoring with this turn?
+
+
+* Can you give me an approach on how to write a code for this game?
+
+
+Absolutely! Here's a basic approach to writing Yahtzee code:
+1. Setting Up the Game:
+* Define variables to represent the five dice (integers 1-6).
+* Create an array to store the scorecard with entries for each scoring category (e.g., Upper Section: Ones, Twos, Threes, etc., Lower Section: Full House, Small Straight, Large Straight, etc.). Initialize these to -1 (indicating unused).
+* You can create a boolean flag to track the number of rolls used in a turn (usually 3).
+2. Simulating Dice Rolls:
+* Create a function to simulate a single die roll. This function can randomly generate a number between 1 and 6.
+* Another function can take the dice array and iterate through it, calling the single die roll function for each die and updating the corresponding value in the array.
+3. Scoring:
+* Write functions to evaluate each scoring category based on the values in the dice array. These functions should return the score achieved or 0 if the category isn't met.
+   * Functions for upper section categories (Ones, Twos, etc.) would simply sum the dice values of the corresponding number.
+   * Functions for lower section categories (Full House, Straight, etc.) would involve checking for specific dice patterns within the array.
+* A separate function can handle user input for the chosen scoring category and call the corresponding scoring function to calculate the points.
+4. Gameplay Loop:
+* Implement a loop that runs for multiple rounds of the game. Within each round:
+   * Reset the number of rolls used flag.
+   * Call the dice roll function the allowed number of times (typically 3 with the option to re-roll specific dice).
+   * After each roll, display the current dice values.
+   * Prompt the user to choose a scoring category from the available options (unused categories on the scorecard).
+   * Call the scoring function based on the user's choice and update the scorecard with the earned points.
+* The loop can continue until all categories on the scorecard are filled or a certain number of rounds are played.
+5. Additional Features:
+* You can extend the code to include a visual representation of the dice and scorecard.
+* Implement logic to handle bonus points for upper section scores exceeding a certain threshold.
+* For a more challenging AI opponent, the code could analyze potential scoring options and suggest strategic choices.
+Remember: This is a basic approach, and the specific implementation will depend on the programming language you choose.  Many online resources and tutorials can provide more detailed code examples for Yahtzee in various languages.
